@@ -1,5 +1,4 @@
 User-agent: *
 Allow: /
-Disallow: /devis/merci/
 
 Sitemap: https://ajour-paris.fr/sitemap.xml
